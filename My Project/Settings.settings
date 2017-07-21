@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DrillReportExtension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-sr.rpt</Value>
+    </Setting>
+    <Setting Name="DrawingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\speedy1\data\drawings</Value>
+    </Setting>
+    <Setting Name="Editor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\windows\system32\write.exe</Value>
+    </Setting>
+    <Setting Name="gitcmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Progra~2\Git\cmd\git.cmd</Value>
+    </Setting>
+    <Setting Name="gitIgnore" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\util\etest.gitignore</Value>
+    </Setting>
+    <Setting Name="LocalIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

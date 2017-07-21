@@ -1,0 +1,32 @@
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe.config
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.pdb
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.xml
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\Interop.CAMMaster.dll
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\Interop.CAMMaster.dll
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.vbproj.ResolveComReference.cache
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.exe
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.xml
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.pdb
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe.config
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe.manifest
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.application
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.pdb
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\netprep.xml
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\bin\Interop.CAMMaster.dll
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\Interop.CAMMaster.dll
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.vbproj.ResolveComReference.cache
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.TrustInfo.xml
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.exe.manifest
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.application
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.exe
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.xml
+C:\Users\btownsend\Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.pdb
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.exe.manifest
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\bin\netprep.application
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.TrustInfo.xml
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.exe.manifest
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\obj\Debug\netprep.application

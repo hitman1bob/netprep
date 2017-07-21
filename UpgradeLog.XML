@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="netprep">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\netprep.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\netprep.suo">
+</Property><Property Name="Date" Value="Friday, November 20, 2009">
+</Property><Property Name="Time" Value="13:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="netprep.sln" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\netprep.sln">
+</Event><Event ErrorLevel="0" Project="" Source="netprep.suo" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\netprep.suo">
+</Event><Event ErrorLevel="0" Project="netprep" Source="netprep.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\netprep.vbproj">
+</Event><Event ErrorLevel="0" Project="netprep" Source="netprep.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\netprep.vbproj.user">
+</Event><Event ErrorLevel="0" Project="netprep" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="netprep" Source="FileCopyAction.vb" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\FileCopyAction.vb">
+</Event><Event ErrorLevel="0" Project="netprep" Source="FileSearch.vb" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\FileSearch.vb">
+</Event><Event ErrorLevel="0" Project="netprep" Source="Module1.vb" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="netprep" Source="App.config" Description="File successfully backed up as C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\netprep\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="netprep" Source="netprep.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="netprep" Source="netprep.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="netprep.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="netprep.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="netprep" Source="netprep.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
